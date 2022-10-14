@@ -1,0 +1,22 @@
+.text {
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    margin: 0;
+}
+
+.three-columns {
+    display: grid;
+    justify-content: center;
+    grid-auto-flow: column;
+    margin: 0 15vw;
+    grid-template-columns: 35vw 10vw 35vw;
+}
+
+a {
+    position: fixed;
+    bottom: 1;
+    font-size: 35px;
+    color: white;
+    margin: 10px 30px;
+}

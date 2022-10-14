@@ -1,0 +1,28 @@
+.form-group {
+    display: grid;
+    grid-auto-flow: column;
+    margin: 0 15vw;
+    grid-template-columns: 35vw 10vw 35vw;
+}
+
+.x {
+    color: white;
+    text-align: center;
+    font-size: larger;
+}
+
+input {
+    font-size: 40px;
+}
+
+button {
+    margin: 10vh 0;
+}
+
+a {
+    position: fixed;
+    bottom: 1;
+    font-size: 35px;
+    color: white;
+    margin: 10px 30px;
+}

@@ -1,0 +1,11 @@
+.a-container {
+    position: absolute;
+	background-image: url("../../assets/fondo-2.png");
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+}
+
+button {
+    margin: 20vh;
+}
